@@ -6,6 +6,6 @@ triggers{
 scm('H/5 * * * *')
 }
 steps{
-batchfile('npm-install')
+batchFile('npm install')
 }
 }
