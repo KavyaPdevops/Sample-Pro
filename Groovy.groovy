@@ -1,4 +1,4 @@
-job('Sample'){
+job('Sample01'){
 scm{
 git('https://github.com/KavyaPdevops/job1.git')
 }
